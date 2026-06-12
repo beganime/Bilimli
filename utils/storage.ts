@@ -12,6 +12,7 @@ export interface Subject {
   id: string;
   name: string;
   icon: string;
+  color: string;
 }
 
 export interface Topic {
